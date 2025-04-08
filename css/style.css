@@ -76,7 +76,7 @@ nav ul {
 }
 .image img {
   width: 400px;       /* atau ukuran yang sesuai */
-  padding: 10px;
+  padding: 40px;
   height: auto;
   border-radius: 30px;
   display: block;      /* penting */
